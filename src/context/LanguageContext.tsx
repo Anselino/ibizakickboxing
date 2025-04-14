@@ -29,11 +29,11 @@ const translations = {
     
     // Schedule
     "scheduleTitle": "Class Schedule",
-    "scheduleDay": "Monday, Wednesday, and Friday",
+    "scheduleDay": "Monday and Friday",
     "scheduleTime": "4:30 PM - 6:00 PM",
     "scheduleAge": "Ages 6 and up",
     "schedulePrice": "€45/month",
-    "includingFree": "including 2 free trial classes with no commitment",
+    "includingFree": "Including 2 free trial classes with no commitment",
     
     // Location
     "locationTitle": "Find Us",
@@ -72,11 +72,11 @@ const translations = {
     
     // Schedule
     "scheduleTitle": "Horario de Clases",
-    "scheduleDay": "Lunes, Miércoles y Viernes",
+    "scheduleDay": "Lunes y Viernes",
     "scheduleTime": "16:30h - 18:00h",
     "scheduleAge": "A partir de 6 años",
     "schedulePrice": "45€/mes",
-    "includingFree": "incluye 2 clases gratis para probar sin compromiso",
+    "includingFree": "Incluye 2 clases gratis para probar sin compromiso",
     
     // Location
     "locationTitle": "Encuéntranos",
