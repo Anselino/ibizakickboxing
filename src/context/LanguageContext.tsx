@@ -15,7 +15,7 @@ const translations = {
     "joinNow": "Join Now",
     "about": "About",
     "schedule": "Schedule",
-    "location": "Location",
+    "location": "Locations",
     "contact": "Contact",
     
     // Hero
@@ -35,10 +35,19 @@ const translations = {
     "schedulePrice": "€45/month",
     "includingFree": "Including 2 free trial classes with no commitment",
     
-    // Location
-    "locationTitle": "Find Us",
-    "locationPlace": "Poliesportiu Sa Blanca Dona",
-    "locationAddress": "Carrer Cas Raspallar, S 15, 5, 07800, 07800 Blanca Dona, Illes Balears",
+    // Locations
+    "locationsTitle": "Our Locations",
+    "locationsSubtitle": "Growing with Ibiza since 2010 — Now training in two locations across the island",
+    "locationSantaEulalia": "Santa Eulalia des Riu",
+    "locationIbiza": "Ibiza",
+    "santaEulaliaVenue": "Polideportivo Municipal Santa Eulalia",
+    "santaEulaliaAddress": "Santa Eulalia des Riu, Illes Balears",
+    "ibizaVenue": "Poliesportiu Sa Blanca Dona",
+    "ibizaAddress": "Carrer Cas Raspallar, S 15, 5, 07800 Blanca Dona, Illes Balears",
+    "originalLocation": "Original — Since 2010",
+    "newLocation": "New Location",
+    "classesAvailable": "Spots Available",
+    "classesFull": "Classes Full",
     "viewMap": "View on Map",
     
     // Contact
@@ -58,7 +67,7 @@ const translations = {
     "joinNow": "Únete Ahora",
     "about": "Nosotros",
     "schedule": "Horario",
-    "location": "Ubicación",
+    "location": "Ubicaciones",
     "contact": "Contacto",
     
     // Hero
@@ -78,10 +87,19 @@ const translations = {
     "schedulePrice": "45€/mes",
     "includingFree": "Incluye 2 clases gratis para probar sin compromiso",
     
-    // Location
-    "locationTitle": "Encuéntranos",
-    "locationPlace": "Poliesportiu Sa Blanca Dona",
-    "locationAddress": "Carrer Cas Raspallar, S 15, 5, 07800, 07800 Blanca Dona, Illes Balears",
+    // Locations
+    "locationsTitle": "Nuestras Ubicaciones",
+    "locationsSubtitle": "Creciendo con Ibiza desde 2010 — Ahora entrenando en dos ubicaciones en la isla",
+    "locationSantaEulalia": "Santa Eulalia des Riu",
+    "locationIbiza": "Ibiza",
+    "santaEulaliaVenue": "Polideportivo Municipal Santa Eulalia",
+    "santaEulaliaAddress": "Santa Eulalia des Riu, Illes Balears",
+    "ibizaVenue": "Poliesportiu Sa Blanca Dona",
+    "ibizaAddress": "Carrer Cas Raspallar, S 15, 5, 07800 Blanca Dona, Illes Balears",
+    "originalLocation": "Original — Desde 2010",
+    "newLocation": "Nueva Ubicación",
+    "classesAvailable": "Plazas Disponibles",
+    "classesFull": "Clases Completas",
     "viewMap": "Ver en Mapa",
     
     // Contact
