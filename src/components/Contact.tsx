@@ -28,8 +28,14 @@ const Contact = () => {
             <Phone className="text-kickred mb-4" size={32} />
             <h3 className="font-bold text-xl mb-2">{t('phoneLabel')}</h3>
             <a 
-              href="tel:+34664432332" 
+              href="tel:+34670311200" 
               className="text-white/80 hover:text-white hover:underline transition"
+            >
+              +34 670 31 12 00
+            </a>
+            <a 
+              href="tel:+34664432332" 
+              className="text-white/80 hover:text-white hover:underline transition mt-1"
             >
               +34 664 43 23 32
             </a>
