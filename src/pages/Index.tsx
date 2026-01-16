@@ -8,6 +8,7 @@ import Locations from '@/components/Locations';
 import Contact from '@/components/Contact';
 import CTA from '@/components/CTA';
 import Footer from '@/components/Footer';
+import WhatsAppWidget from '@/components/WhatsAppWidget';
 
 const Index = () => {
   return (
@@ -21,6 +22,7 @@ const Index = () => {
         <Contact />
         <CTA />
         <Footer />
+        <WhatsAppWidget />
       </div>
     </LanguageProvider>
   );
